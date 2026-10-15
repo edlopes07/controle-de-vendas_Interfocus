@@ -3,13 +3,13 @@ Projeto desenvolvido durante o 2º termo do curso de Análise e Desenvolvimento 
 
 ## 🚀 Tecnologias Utilizadas
 
-* **Front-end:** HTML, CSS + Bootstrap
-* **Back-end:** JavaScript
+* **Front-end:** HTML + CSS
+* **Back-end:** *(Não implementado no projeto)*
 
 ## 👥 Equipe
 
 * **Eduardo** – Desenvolvimento do front-end
-* **Davi** – Desenvolvimento do back-end
+* **Davi** – Desenvolvimento do back-end *(Não implementado no projeto)*
 * **Renan** – Desenvolvimento do front-end
 * **Carla, Raphael, Felipe, Giuliano e Guilherme** – Concepção, auxílio e estruturação do projeto
 
